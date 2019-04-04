@@ -1115,5 +1115,10 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 .js .animate-box {
   opacity: 0;
 }
+}
+
+.bitcoin i::after {
+  color: #fff;
+}
 
 /*# sourceMappingURL=style.css.map */
