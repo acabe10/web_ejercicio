@@ -1116,4 +1116,9 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   opacity: 0;
 }
 
+td,tr,th
+{
+    border: 1px solid black;
+}
+
 /*# sourceMappingURL=style.css.map */
